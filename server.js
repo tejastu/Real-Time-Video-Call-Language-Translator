@@ -38,13 +38,13 @@ let translatedText="Not have anything to translate";
 
 const languageTranslator = new LanguageTranslatorV3({
   //  Please fill the blanks with your credentials
-  version: '2018-05-01',
+  version: '',
 
   authenticator: new IamAuthenticator({
   
-    apikey: 'jzupzR4mMVorAoDXA01qj1aBUsMatZoIXkPLSo24ctFN',
+    apikey: '',
   }),
-  serviceUrl: 'https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/425d1451-2a20-4488-9e48-326dd2959bf7',
+  serviceUrl: '',
   
 //  disableSslVerification: true,
 });
