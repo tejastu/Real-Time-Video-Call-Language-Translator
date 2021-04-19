@@ -130,7 +130,7 @@ video {
 #invite-button:hover {
    background: #2f94ca;
 }
-
+#userT{background:red; width:400px; margin:0 auto; color:#fff; padding:10px; text-align:center;}
 /* Media Query */
 @media screen and (max-width: 1024px) {
    /* Video Section */
